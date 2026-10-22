@@ -6,7 +6,7 @@
 #include "HAL/SEVSEG/SSD_interface.h"
 #include "HAL/IR/IR_interface.h"
 #include "HAL/DcMotor/DcMotor_Interface.h"
-#include "avr/delay.h" 0
+#include "avr/delay.h"
 
 int main(void)
 {
