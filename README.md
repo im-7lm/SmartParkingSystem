@@ -20,9 +20,8 @@ The system uses IR sensors to detect cars entering and exiting the parking area.
 ## 🛠️ Software & Tools
 
 * Embedded C
-* AVR Microcontroller
-* Atmel Studio
-* Proteus *(if used for simulation)*
+* ATmega32
+* Microchip studio
 
 ## 🚀 Features
 
